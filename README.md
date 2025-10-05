@@ -67,6 +67,3 @@ This platform provides a suite of cryptographic services with RSA and ECC algori
 
 Feel free to submit issues, pull requests, or suggestions for improvement. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
